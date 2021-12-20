@@ -1,0 +1,115 @@
+{
+  "posts": [
+    {
+      "title": "title 1",
+      "author": "Mirjahon",
+      "id": 18
+    },
+    {
+      "title": "dada",
+      "author": "Mirjahon",
+      "id": 19
+    },
+    {
+      "title": "dasda'",
+      "author": "Mirjahon",
+      "id": 20
+    },
+    {
+      "title": "dasda'",
+      "author": "Mirjahon",
+      "id": 21
+    },
+    {
+      "title": "dasda'",
+      "author": "Mirjahon",
+      "id": 22
+    },
+    {
+      "title": "dasda'",
+      "author": "Mirjahon",
+      "id": 23
+    },
+    {
+      "title": "dasda'",
+      "author": "Mirjahon",
+      "id": 24
+    },
+    {
+      "title": "dasda'",
+      "author": "Mirjahon",
+      "id": 25
+    },
+    {
+      "title": "dasda'",
+      "author": "Mirjahon",
+      "id": 26
+    },
+    {
+      "title": "dasda'",
+      "author": "Mirjahon",
+      "id": 27
+    },
+    {
+      "title": "dasda'",
+      "author": "Mirjahon",
+      "id": 28
+    },
+    {
+      "title": "dasda'",
+      "author": "Mirjahon",
+      "id": 29
+    },
+    {
+      "title": "dasda'",
+      "author": "Mirjahon",
+      "id": 30
+    },
+    {
+      "title": "dasda'",
+      "author": "Mirjahon",
+      "id": 31
+    },
+    {
+      "title": "dasda'",
+      "author": "Mirjahon",
+      "id": 32
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  },
+  "users": [
+    {
+      "id": "1",
+      "name": "Mirjahon",
+      "email": "mirjahonulmasov@gmail.com",
+      "address": {
+        "city": "Tashkent",
+        "street": "Donishmand",
+        "zipcode": "100016"
+      }
+    },
+    {
+      "name": "Shahzoda",
+      "email": "shahzoda@gmail.com",
+      "address": {
+        "city": "Tashkent",
+        "street": "Qozirobod",
+        "zipcode": "100050"
+      },
+      "id": "8XnKzNL"
+    },
+    {
+      "name": "Nodira",
+      "email": "nodira@inbox.mail.ru",
+      "address": {
+        "city": "Sant PeterBurg",
+        "street": "Lenin",
+        "zipcode": "100023"
+      },
+      "id": "3cEsF-Z"
+    }
+  ]
+}
