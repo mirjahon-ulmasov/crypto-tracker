@@ -1,79 +1,39 @@
 {
   "posts": [
     {
-      "title": "title 1",
-      "author": "Mirjahon",
-      "id": 18
-    },
-    {
-      "title": "dada",
-      "author": "Mirjahon",
-      "id": 19
-    },
-    {
-      "title": "dasda'",
-      "author": "Mirjahon",
-      "id": 20
-    },
-    {
-      "title": "dasda'",
-      "author": "Mirjahon",
-      "id": 21
-    },
-    {
-      "title": "dasda'",
-      "author": "Mirjahon",
-      "id": 22
-    },
-    {
       "title": "dasda'",
       "author": "Mirjahon",
       "id": 23
     },
     {
-      "title": "dasda'",
+      "title": "UPDATED 2",
       "author": "Mirjahon",
       "id": 24
     },
     {
-      "title": "dasda'",
+      "title": "CREATED",
       "author": "Mirjahon",
-      "id": 25
+      "id": 34
     },
     {
-      "title": "dasda'",
+      "title": "CREATED",
       "author": "Mirjahon",
-      "id": 26
+      "id": 35
     },
     {
-      "title": "dasda'",
+      "title": "CREATED",
       "author": "Mirjahon",
-      "id": 27
+      "id": 36
     },
     {
-      "title": "dasda'",
+      "title": "asd",
       "author": "Mirjahon",
-      "id": 28
+      "id": 37
     },
     {
-      "title": "dasda'",
+      "title": "BAD",
       "author": "Mirjahon",
-      "id": 29
-    },
-    {
-      "title": "dasda'",
-      "author": "Mirjahon",
-      "id": 30
-    },
-    {
-      "title": "dasda'",
-      "author": "Mirjahon",
-      "id": 31
-    },
-    {
-      "title": "dasda'",
-      "author": "Mirjahon",
-      "id": 32
+      "id": 38
     }
   ],
   "comments": [],
@@ -82,34 +42,14 @@
   },
   "users": [
     {
-      "id": "1",
       "name": "Mirjahon",
       "email": "mirjahonulmasov@gmail.com",
       "address": {
         "city": "Tashkent",
         "street": "Donishmand",
         "zipcode": "100016"
-      }
-    },
-    {
-      "name": "Shahzoda",
-      "email": "shahzoda@gmail.com",
-      "address": {
-        "city": "Tashkent",
-        "street": "Qozirobod",
-        "zipcode": "100050"
       },
-      "id": "8XnKzNL"
-    },
-    {
-      "name": "Nodira",
-      "email": "nodira@inbox.mail.ru",
-      "address": {
-        "city": "Sant PeterBurg",
-        "street": "Lenin",
-        "zipcode": "100023"
-      },
-      "id": "3cEsF-Z"
+      "id": 1
     }
   ]
 }

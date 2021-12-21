@@ -23,7 +23,7 @@
 }
 
 .nav-links {
-  width: 30%;
+  width: 50%;
   display: flex;
   justify-content: space-evenly;
 }
@@ -92,17 +92,17 @@ h1 {
   font-size: 16px;
 }
 
-.todo-title.completed { 
+.todo-title.completed {
   text-decoration: line-through;
 }
 
 .user-list {
   display: grid;
-  grid-template-columns: repeat( auto-fit, minmax(270px, 1fr) );
+  grid-template-columns: repeat(auto-fit, minmax(270px, 1fr));
 }
 
 .user-item {
   margin: 1rem;
   padding: 2rem;
-  box-shadow: 10px 10px 40px rgba(0, 0, 0, 0.1); 
+  box-shadow: 10px 10px 40px rgba(0, 0, 0, 0.1);
 }

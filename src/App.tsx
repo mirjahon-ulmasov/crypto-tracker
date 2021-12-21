@@ -5,6 +5,8 @@ import TodoPage from "./pages/TodoPage";
 import AboutPage from "./pages/AboutPage";
 import UsersPage from "./pages/UsersPage";
 import TodoItemPage from "./pages/TodoItemPage";
+import ChartPage from "./pages/ChartPage";
+import ChartDetailPage from "./pages/ChartDetailPage";
 
 const App: React.FC = () => {
   return (
@@ -16,6 +18,8 @@ const App: React.FC = () => {
       <Route path="/todos/:todoId" component={TodoItemPage} />
       <Route path="/users" component={UsersPage} />
       <Route path="/about" component={AboutPage} />
+      <Route path="/charts" component={ChartPage} exact />
+      <Route path="/charts/:coinId" component={ChartDetailPage} />
     </Switch>
   );
 };

@@ -10,7 +10,6 @@ import { IPost } from "../types";
 
 const AboutPage: FC = () => {
   const createTitleRef = useRef<HTMLInputElement>(null);
-  const updateTitleRef = useRef<HTMLInputElement>(null);
   const [createPost] = useCreatePostMutation();
   const [deletePost] = useDeletePostMutation();
   const [updatePost] = useUpdatePostMutation();
@@ -37,13 +36,13 @@ const AboutPage: FC = () => {
           id="title"
         />
       </div>
-      <div>
+      <div style={{ overflow: "auto" }}>
         {isLoading && <h1>Loading....</h1>}
         {isFetching && <h1>Fetching....</h1>}
         {error && <h1>Something went wrong...</h1>}
         {data?.map((post) => (
           <div className="todo-item" key={post.id}>
-            <span>{JSON.stringify(post)}</span>
+            <span>{JSON.stringify(post, null, 2)}</span>
             <button
               onClick={() => {
                 deletePost(post.id);

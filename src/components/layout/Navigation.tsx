@@ -20,6 +20,9 @@ const Navigation: React.FC = () => {
           <li>
             <NavLink to="/about">о нас</NavLink>
           </li>
+          <li>
+            <NavLink to="/charts">Charts</NavLink>
+          </li>
         </ul>
       </div>
     </nav>
